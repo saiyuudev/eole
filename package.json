@@ -1,0 +1,23 @@
+{
+  "name": "eole",
+  "version": "1.0.0",
+  "description": "A Local Panel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saiyuudev/eole.git"
+  },
+  "author": "Saiyuu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saiyuudev/eole/issues"
+  },
+  "homepage": "https://github.com/saiyuudev/eole#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2"
+  }
+}
